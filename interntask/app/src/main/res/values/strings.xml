@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">interntask</string>
+    <string name="enter_string_app_name">enter @string/app_name</string>
+    <string name="name">Name</string>
+    <string name="enter_name">enter name</string>
+    <string name="next">next</string>
+    <string name="user_name">user name</string>
+    <string name="password">password</string>
+    <string name="login">login</string>
+    <string name="sign_up">sign up</string>
+    <string name="enter_name1">enter name</string>
+    <string name="enter_password">enter password</string>
+    <string name="phone_number1">phone number</string>
+    <string name="e_mail">e-mail</string>
+    <string name="register">register</string>
+    <string name="roll_number">roll number</string>
+    <string name="button">Button</string>
+    <string name="name1">Name</string>
+    <string name="enter_string_roll_number">enter @string/roll_number</string>
+    <string name="enter_roll_number">enter roll number</string>
+    <string name="search">search</string>
+    <string name="textview1">TextView</string>
+    <string name="textview2">TextView</string>
+    <string name="textview3">TextView</string>
+    <string name="textview4">TextView</string>
+    <string name="textview5">TextView</string>
+    <string name="enter_the_name">enter the name</string>
+    <string name="call">call</string>
+    <string name="phone_number">phone number</string>
+    <string name="send">send</string>
+    <string name="enter_the_number">enter the number</string>
+    <string name="enter_the_text">enter the text</string>
+    <string name="messaging">MESSAGING</string>
+    <string name="phone">PHONE</string>
+    <string name="welcome">WELCOME</string>
+</resources>

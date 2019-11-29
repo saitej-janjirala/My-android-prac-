@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">loginform</string>
+    <string name="name">name</string>
+    <string name="password">password</string>
+    <string name="button1">Button</string>
+    <string name="e_mail">e-mail</string>
+    <string name="phone_number">phone number</string>
+    <string name="postal_address">postal -address</string>
+    <string name="enter_the_name">enter the name</string>
+    <string name="button">Button</string>
+    <string name="search">search</string>
+</resources>
